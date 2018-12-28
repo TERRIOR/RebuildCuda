@@ -27,6 +27,9 @@
     <ClInclude Include="structlightcuda.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="cuda_gobal.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
